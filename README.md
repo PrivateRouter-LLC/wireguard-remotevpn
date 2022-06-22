@@ -18,7 +18,7 @@ Below are the flags that you may pass to the script.
 
 To install as a system service:
 
-**`rvpn-install.sh -s [Server-IP] -t [Server-Token] -d myvpn.privaterouter.com`**
+**`curl https://raw.githubusercontent.com/PrivateRouter-LLC/wireguard-remotevpn/main/rvpn-install.sh | bash -s -- -s 123.456.789.120 -t token123 -d myvpn.privaterouter.com`**
 
 
 
