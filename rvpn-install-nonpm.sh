@@ -185,7 +185,7 @@ wgeasy_install() {
 npm_install() {
     # NPM WILL NOT BE INSTALLED, PLS CONFIGURE WITH NGINX
     
-    } 
+    
 }
 
 # ------------------------------------------------- WE RUN FROM HERE -------------------------------------------------
