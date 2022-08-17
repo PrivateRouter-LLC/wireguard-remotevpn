@@ -182,12 +182,6 @@ wgeasy_install() {
     } || { echo "* wg-easy is already running thus we cannot proceed"; exit 1; }
 }
 
-npm_install() {
-    # NPM WILL NOT BE INSTALLED, PLS CONFIGURE WITH NGINX
-    
-    
-}
-
 # ------------------------------------------------- WE RUN FROM HERE -------------------------------------------------
 
 banner
